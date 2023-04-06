@@ -12,4 +12,4 @@
 -->
 
 # 모듈 아키텍처
-<img width="400" alt="화면 캡처 2023-04-06 200833" src="https://user-images.githubusercontent.com/93020734/230360412-5b067bbb-31cf-4229-a792-0abfee9253df.png">
+<img width="400" alt="화면 캡처 2023-04-06 200833" width="600px" height="500px" src="https://user-images.githubusercontent.com/93020734/230360412-5b067bbb-31cf-4229-a792-0abfee9253df.png">
