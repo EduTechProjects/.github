@@ -23,10 +23,15 @@
 ## ✨ UI
 #### 자세한 내용 👉🏻 [Figma](https://www.figma.com/file/O4lMX9B1EeOZnWFWzKHMyr/Untitled?type=design&node-id=0-1&t=McqD3OcmqNa5MFzh-0)
 <br>
-<img width="450" height="300" alt="스크린샷 2023-06-17 오후 6 16 27" src="https://github.com/EduTechProjects/.github/assets/104717341/0d7bb22d-b9f2-4989-8abf-993f98fda36a">
+<div style="display: flex">
+  <img width="450" height="300" alt="스크린샷 2023-06-17 오후 6 16 27" src="https://github.com/EduTechProjects/.github/assets/104717341/0d7bb22d-b9f2-4989-8abf-993f98fda36a">
 <img width="450" height="300" alt="스크린샷 2023-06-17 오후 6 12 37" src="https://github.com/EduTechProjects/.github/assets/104717341/098414f5-3db9-4907-8659-6cab6f0bb130">
-<img width="450" height="300" alt="스크린샷 2023-06-17 오후 6 13 07" src="https://github.com/EduTechProjects/.github/assets/104717341/023d95a1-d840-42d3-ada3-fadab4aa46a9">
+</div>
+<div style="display: flex">
+  <img width="450" height="300" alt="스크린샷 2023-06-17 오후 6 13 07" src="https://github.com/EduTechProjects/.github/assets/104717341/023d95a1-d840-42d3-ada3-fadab4aa46a9">
 <img width="450" height="300" alt="스크린샷 2023-06-17 오후 6 13 18" src="https://github.com/EduTechProjects/.github/assets/104717341/080539ca-b09d-4ce9-8194-531ebf8c8f87">
+</div>
+
 
 <br>
 
