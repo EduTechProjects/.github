@@ -14,9 +14,9 @@
 ## 👥 팀원 소개
 |이주희|김지환|윤솔지|정혜원|김평진|
 |---|---|---|---|---|
-|<img style="width:150px" src="https://github.com/EduTechProjects/.github/assets/104717341/cda21e5d-5917-4b56-8c38-9418f5993cd6"/>|지환이 사진|솔지사진|혜워니 사진|<img src='https://velog.velcdn.com/images/pong_jin/post/20c127b0-e752-439f-ba19-d3a3745ba0c0/image.jpg' style="width:150px">|
+|<img style="width:150px" src="https://github.com/EduTechProjects/.github/assets/104717341/cda21e5d-5917-4b56-8c38-9418f5993cd6"/>||솔지사진|혜워니 사진|<img src='https://velog.velcdn.com/images/pong_jin/post/20c127b0-e752-439f-ba19-d3a3745ba0c0/image.jpg' style="width:150px">|
 |프론트&백엔드|AI 모델링|프론트&백엔드|AI 모델링|AI 모델링|
-|[@Doozuu](https://github.com/Doozuu)|내용 10|[@solarthenomad](https://github.com/Solarthenomad)|내용 12|[@pongjin](https://github.com/pongjin)|
+|[@Doozuu](https://github.com/Doozuu)|[@hvvan](https://github.com/hvvan)|[@solarthenomad](https://github.com/Solarthenomad)|내용 12|[@pongjin](https://github.com/pongjin)|
 
 <br>
 
