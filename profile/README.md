@@ -14,7 +14,7 @@
 ## 👥 팀원 소개
 |이주희|김지환|윤솔지|정혜원|김평진|
 |---|---|---|---|---|
-|<img style="width:150px" src="https://github.com/EduTechProjects/.github/assets/104717341/cda21e5d-5917-4b56-8c38-9418f5993cd6"/>|<img src="https://github.com/EduTechProjects/.github/assets/90609711/18145ac2-fc2f-4414-aeb9-e63fa39e8c2a" width="150" height="150"/>|<img src="https://github.com/EduTechProjects/deploy/assets/93020734/04a2b4df-ed4c-4817-a6dc-dd326d176b00" alt="예시 이미지" width="150px" height="150px">|![다운로드](https://github.com/EduTechProjects/.github/assets/118032521/86c07426-72a2-412d-8e58-03ea7f1ee285)|<img src='https://velog.velcdn.com/images/pong_jin/post/20c127b0-e752-439f-ba19-d3a3745ba0c0/image.jpg' style="width:150px">|
+|<img style="width:150px" src="https://github.com/EduTechProjects/.github/assets/104717341/cda21e5d-5917-4b56-8c38-9418f5993cd6"/>|<img src="https://github.com/EduTechProjects/.github/assets/90609711/18145ac2-fc2f-4414-aeb9-e63fa39e8c2a" width="150" height="150"/>|<img src="https://github.com/EduTechProjects/deploy/assets/93020734/04a2b4df-ed4c-4817-a6dc-dd326d176b00" alt="예시 이미지" width="150px" height="150px">|<img src="https://github.com/EduTechProjects/.github/assets/118032521/86c07426-72a2-412d-8e58-03ea7f1ee285" width="150px" height="150px">|<img src='https://velog.velcdn.com/images/pong_jin/post/20c127b0-e752-439f-ba19-d3a3745ba0c0/image.jpg' style="width:150px">|
 |프론트&백엔드|AI 모델링|프론트&백엔드|AI 모델링|AI 모델링|
 |[@Doozuu](https://github.com/Doozuu)|[@hvvan](https://github.com/hvvan)|[@solarthenomad](https://github.com/Solarthenomad)|[@Hewon0920](https://github.com/Hyewon0920)|[@pongjin](https://github.com/pongjin)|
 
