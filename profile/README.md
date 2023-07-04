@@ -47,6 +47,7 @@
 
 ## AI 아키텍처
 
+<img width="550" alt="AItech" src="https://github.com/EduTechProjects/.github/assets/118032521/1c896a3f-4a7d-4ae3-a962-8bc21579c7d0">
 
 
 
